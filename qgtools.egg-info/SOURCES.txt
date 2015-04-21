@@ -1,0 +1,8 @@
+setup.py
+qgtools/__init__.py
+qgtools.egg-info/PKG-INFO
+qgtools.egg-info/SOURCES.txt
+qgtools.egg-info/dependency_links.txt
+qgtools.egg-info/not-zip-safe
+qgtools.egg-info/requires.txt
+qgtools.egg-info/top_level.txt
