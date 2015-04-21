@@ -1,0 +1,5 @@
+- Code simple function that return the streching term
+    associated with a given N2 profile
+- Implement various form of calculations vertical mode
+    calculations with second and fourth order schemes
+- Code for linear stability analysis in two directions
